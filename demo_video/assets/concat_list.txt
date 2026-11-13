@@ -1,0 +1,6 @@
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene1.mp4'
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene2.mp4'
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene3.mp4'
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene4.mp4'
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene5.mp4'
+file '/home/alishan45/Desktop/ ai engineer internship week 3 /demo_video/generated_scenes/scene6.mp4'
